@@ -1,0 +1,49 @@
+section {
+    border: 2px solid red;
+}
+
+.stuart-little {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 4rem;
+
+    margin-bottom: 1rem;
+}
+
+.stuart-little img {
+    width: 20rem;
+}
+
+.stuart-little p{
+    width: 30rem;
+    text-align: center;
+}
+
+.xaropinho{
+    display: flex;
+    align-items: center;
+    flex-direction: row-reverse;
+    justify-content: center;
+    gap: 4rem;
+
+    margin-bottom: 1rem;
+}
+
+.xaropinho img {
+    width: 20rem;
+
+}
+
+.xaropinho p {
+    width: 30rem;
+    text-align: center;
+}
+
+.formulario {
+    padding: 1rem;
+}
+
+.formulario div {
+    display: flex;
+}
